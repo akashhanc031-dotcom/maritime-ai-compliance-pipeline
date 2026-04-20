@@ -1,0 +1,18 @@
+===============================================
+BUREAU VERITAS: SQL-DRIVEN COMPLIANCE REPORT
+Source Database: maritime_fleet.db
+Generated: 2026-04-18 21:01:37.484901
+===============================================
+
+VESSEL: Baltic Giant
+DATABASE DATA: 25000 GT | 1500.0 Tons Fuel
+AGENT DETERMINATION:
+Final CO2 Allowance Calculation for Baltic Giant in 2024 with a consumption of ~1500.0 tons of fuel, given the Phase-In Scenario and Compliance to European Union directives through IMO MEPC 72 guidelines:  
+To calculate this allowance while considering an EU Carbon Emission Regulations phase-in where carbon emissions may be reduced by a specified percentage over time within regulated entities, we first determine the baseline CO2 mass using known fuel consumption and specific emission factors for maritime vessels. Acknowledging that Baltic Giant does not directly fall under ETS due to threshold GT criteria but is obliged by EU environmental legislation measures:  
+
+Baseline Basis - Assuming IMO Tier III as a reference point with an associated Euro 4th engine fuel consumption factor of approximately 72 gCO2/MJ and Baltic Giant's gross tonnage exceeding the threshold for direct ETS regulation yet within EU legislation scope:  
+- Using international shipping emission standards. The CO_2 emitted per ton of oil equivalent (toe) by a maritime vessel is estimated considering an energy content of marine diesel fuel which equates to 45 MJ/kg and Baltic Giant's utilization efficiency, assuming this would lead us closer to the International Maritime Organization IMO Tier III Standard.  
+\[ \text {CO2 Baseline} = 10^{\text{toe used in CO_2 tons}} \]
+
+==================================================
+
